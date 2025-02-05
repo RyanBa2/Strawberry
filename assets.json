@@ -1,0 +1,48 @@
+{
+    "summary": {
+        "liquid_assets_krw": 0,
+        "receivables_and_deposits_krw": 0,
+        "stocks_krw": 0,
+        "stocks_usd": 0,
+        "cryptocurrency_krw": 0,
+        "cryptocurrency_usd": 0,
+        "total_krw_without_usd": 0,
+        "total_usd": 0,
+        "converted_total_krw": 0
+    },
+    "liquid_assets": {
+        "total_krw": 0,
+        "checking_account": {
+            "total_krw": 0,
+            "details": []
+        },
+        "savings_account": {
+            "total_krw": 0,
+            "details": []
+        },
+        "installment_savings": {
+            "total_krw": 0,
+            "details": []
+        }
+    },
+    "receivables_and_deposits": {
+        "total_krw": 0,
+        "receivables": {
+            "total_krw": 0,
+            "details": []
+        },
+        "deposits": {
+            "total_krw": 0,
+            "details": []
+        }
+    },
+    "stocks": {
+        "total_krw": 0.0,
+        "total_usd": 0.0
+    },
+    "cryptocurrency": {
+        "total_usd": 0,
+        "Coinbase": [],
+        "Binance": []
+    }
+}
